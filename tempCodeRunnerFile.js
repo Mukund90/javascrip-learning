@@ -1,2 +1,4 @@
-const add = (num1,num2)=>(num1+num2)
-// console.log(add(2,3))
+(
+//   fun1=function(){
+//   console.log(`Db is connected!`)
+// })();
